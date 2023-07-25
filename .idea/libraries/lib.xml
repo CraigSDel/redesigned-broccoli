@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/classpath/my-project/lib/lombok.jar!/" />
+      <root url="jar://$PROJECT_DIR$/classpath/my-project/lib/log4j-core-2.20.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/classpath/my-project/lib/log4j-core-2.20.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
