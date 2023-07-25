@@ -1,0 +1,7 @@
+!/demo_gradle.zip
+
+!/demo_gradle_kotlin.zip
+
+!/demo_maven.zip
+!/classpath/my-project/out/
+!/modulepath/my-project/target/
